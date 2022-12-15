@@ -1,1 +1,3 @@
-"" 
+Il y a normalement toutes les fonctionnalités foncionnelles, Le seul probleme present est que la table relationnelle
+n'est pas modifié lorsque l'on ajoute un proprietaire aux chats. Je ne sait pas du tout pourquoi mais cela arrive a plusieurs personnes mais 
+fonctionne sur certains pc
